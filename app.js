@@ -41,7 +41,7 @@
       description: 'Mobile & browser wallet for BCH and CashTokens.', url: 'https://paytaca.com',
       notes: 'Non-custodial wallet with SLP/CashToken support.' },
     { id: 'selene', name: 'Selene Wallet', category: 'wallets', region: 'Global',
-      description: 'Lightweight for mobile and desktop wallet for Bitcoin Cash.', url: 'https://selenewallet.cash',
+      description: 'Lightweight for mobile and desktop wallet for Bitcoin Cash.', url: 'https://selene.cash',
       notes: 'Community-maintained SPV wallet.' },
     { id: 'zapit', name: 'Zapit', category: 'wallets', region: 'Global',
       description: 'Mobile wallet focused on fast BCH payments.', url: 'https://zapit.io',
