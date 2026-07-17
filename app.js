@@ -104,7 +104,7 @@
       notes: '' },
 
     // --- Merchant Services ---
-    { id: 'compasspay', name: 'compass pay', category: 'merchant', region: 'Global',
+    { id: 'compasspay', name: 'Compass pay', category: 'merchant', region: 'Global',
       description: 'Drop-in BCH payment for merchants, freelancers and everyone interested in paying using BCH.', url: 'https://compasspay.cash',
       notes: '' },
     { id: 'bchpay', name: 'BCH Pay', category: 'merchant', region: 'Global',
